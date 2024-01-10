@@ -97,9 +97,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 - Control flow statements like if-else conditions and loops.
 
-Github Repository: [Source Code]
-
-LinkedIn post: [Daily Update]
+Github Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/01.%20Day%201%20-%20Python%20Basics)
 
 ---
 
