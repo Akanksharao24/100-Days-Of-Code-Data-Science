@@ -34,7 +34,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
-| 7   | 8   | 9   | 10✅  | 11  | 12  | 13  |
+| 7   | 8   | 9   | 10✅  | 11✅  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
@@ -102,14 +102,13 @@ Github Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 ---
 
 
-## **DAY 2 :** 
-### Goal: Functions and Modules
-- Concept of modules.
-- How to import and use built-in modules as well as create your own.
+## **DAY 2 (11 January 2024):** 
+### Goal: Functions and Recursion
 
-GitHub Repository: [Source Code]
+- Understanding Functions:
+- Exploring Recursion
 
-LinkedIn post: [Daily Update]
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/02.%20Day%202%20-%20Python%20Function%20and%20Recursion)
 
 ---
 
