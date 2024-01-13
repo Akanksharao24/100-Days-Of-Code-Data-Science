@@ -114,11 +114,11 @@ GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 
 
 ## **DAY 3 :** 
-### Goal: Data Structures ( Lists, Tuples, Sets ) 
-- Python's built-in data structures such as lists, tuples, and sets.
+### Goal: Data Structures ( Lists, Tuples, Sets, Dictionaries ) 
+- Python's built-in data structures such as lists, tuples, Dictionaries, and sets.
 - Also, learn about indexing, slicing, and manipulating these data structures.
 
-GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/03.%20Day%203%20-%20Data%20Structures%20(%20Lists%2C%20Tuples%2C%20Sets%20)
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/03.%20Day%203%20-%20Data%20Structures%20(%20Lists%2C%20Tuples%2C%20Sets%2C%20Dictionaries)
 
 ---
 
