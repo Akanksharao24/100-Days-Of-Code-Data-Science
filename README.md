@@ -34,7 +34,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
-| 7   | 8   | 9   | 10✅  | 11✅  | 12  | 13  |
+| 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
@@ -114,13 +114,11 @@ GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 
 
 ## **DAY 3 :** 
-### Goal: Data Structures 
-- Python's built-in data structures such as lists, tuples, dictionaries, and sets.
+### Goal: Data Structures ( Lists, Tuples, Sets ) 
+- Python's built-in data structures such as lists, tuples, and sets.
 - Also, learn about indexing, slicing, and manipulating these data structures.
 
-GitHub Repository: [Source Code]
-
-LinkedIn post: [Daily Update]
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/03.%20Day%203%20-%20Data%20Structures%20(%20Lists%2C%20Tuples%2C%20Sets%20)
 
 ---
 
