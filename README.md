@@ -113,12 +113,23 @@ GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 ---
 
 
-## **DAY 3 :** 
+## **DAY 3 (12 January 2024):** 
 ### Goal: Data Structures ( Lists, Tuples, Sets, Dictionaries ) 
 - Python's built-in data structures such as lists, tuples, Dictionaries, and sets.
 - Also, learn about indexing, slicing, and manipulating these data structures.
 
 GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/03.%20Day%203%20-%20Data%20Structures%20(%20Lists%2C%20Tuples%2C%20Sets%2C%20Dictionaries)
+
+---
+
+
+## **DAY 4 (13 January 2024) :** 
+### Goal: Data Structures (Stacks, Queues, Linked Lists) 
+- Understanding and Implementation of Stacks
+- Exploration of Queues
+- In-depth Coverage of Linked Lists
+  
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/04.%20Day%204%20-%20Data%20Structures%20(%20Stacks%20%2C%20Queues%2C%20LinkedLists)
 
 ---
 
