@@ -34,8 +34,8 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
-| 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13  |
-| 14  | 15  | 16  | 17  | 18  | 19  | 20  |
+| 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13✅  |
+| 14  | 15  | 16  | 17✅  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 
@@ -131,6 +131,19 @@ GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 - In-depth Coverage of Linked Lists
   
 GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/04.%20Day%204%20-%20Data%20Structures%20(%20Stacks%20%2C%20Queues%2C%20LinkedLists)
+
+---
+
+## **DAY 5 (17 January 2024) :** 
+### Goal: Data Structures (Trees and Stacks) 
+- Understanding and Implementation of Trees 
+- Exploration of Stacks
+
+  
+GitHub Repository: [Source Code][(https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/04.%20Day%204%20-%20Data%20Structures%20(%20Stacks%20%2C%20Queues%2C%20LinkedLists)
+](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/blob/main/05.%20Day%205%20-%20Data%20Structures%20(%20Trees%20and%20Graphs%20)/Day5.ipynb)
+
+
 
 ---
 
