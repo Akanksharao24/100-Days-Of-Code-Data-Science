@@ -40,6 +40,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | 28  | 29  | 30  | 31  |     |     |     |
 
 
+13th - 16th = Sankranthi 
 
 
 ### February 2024 
