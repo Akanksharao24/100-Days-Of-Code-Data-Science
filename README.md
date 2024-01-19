@@ -35,7 +35,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13✅  |
-| 14  | 15  | 16  | 17✅  | 18  | 19  | 20  |
+| 14  | 15  | 16  | 17✅  | 18✅  | 19✅  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 
@@ -156,6 +156,17 @@ GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-C
 
 
 ---
+
+## **DAY 7 (19 January 2024) :** 
+### Goal: Data Structures ( Sorting Algorithm ) 
+- Discussed various sorting algoritms
+
+  
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/07.%20Day%207%20-%20Data%20Structures%20(%20Sorting%20Algorithms%20)
+
+
+---
+
 
 ## **DAY 4 :** 
 ### Goal: File Handling and Exception Handling 
