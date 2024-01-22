@@ -36,7 +36,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13✅  |
 | 14  | 15  | 16  | 17✅  | 18✅  | 19✅  | 20✅  |
-| 21  | 22  | 23  | 24  | 25  | 26  | 27  |
+| 21✅  | 22✅  | 23✅  | 24✅  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 
 
@@ -172,49 +172,55 @@ GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-C
 - Discussed various Searching algorithms
 
   
-GitHub Repository: [Source Code] 
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/08.%20Day%208%20-%20Data%20Structures%20(%20Searching%20Algorithms%20))
 
 
 ---
 
 
-## **DAY 4 :** 
+## **DAY 9 (21 January 2024) :** 
 ### Goal: File Handling and Exception Handling 
 - Read from and write to files in Python.
 - Learn about exception handling and how to handle errors using try-except blocks.
 
-GitHub Repository: [Source Code]
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/09.%20Day%209%20-%20%20File%20Handling%20and%20Exception%20Handling)
 
-LinkedIn post: [Daily Update]
 
 ---
 
 
-## **DAY 5 :** 
-### Goal: Python Classes and Objects  
+## **DAY 10 (22 January 2024) :** 
+### Goal: OOPS ( Classes and Objects  )
 - Class Declaration
 - Object Instantiation
 - Constructor and Destructor
 - Built-in Class Attributes and Functions
 - Instance, Class and Static Variables and Functions.
 
-GitHub Repository: [Source Code]
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20%20OOPS%20(%20Classes%20and%20Object%20)
 
-LinkedIn post: [Daily Update]
 
 ---
 
 
-## **DAY 6 :** 
-### Goal: Python OOPs Concepts and Implementation in Python 
+## **DAY 11 (23 January 2024):** 
+### Goal: OOPS 
 - Data Abstraction
 - Encapsulation
+
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20%20OOPS%20Basic)
+
+
+---
+
+
+## **DAY 12 (24 January 2024):** 
+### Goal: OOPS 
 - Inheritance
 - Polymorphism.
 
-GitHub Repository: [Source Code]
+GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic)
 
-LinkedIn post: [Daily Update]
 
 ---
 
