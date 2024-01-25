@@ -36,7 +36,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10✅  | 11✅  | 12✅ | 13✅  |
 | 14  | 15  | 16  | 17✅  | 18✅  | 19✅  | 20✅  |
-| 21✅  | 22✅  | 23✅  | 24✅  | 25  | 26  | 27  |
+| 21✅  | 22✅  | 23✅  | 24✅  | 25✅  | 26✅ | 27  |
 | 28  | 29  | 30  | 31  |     |     |     |
 
 
@@ -208,7 +208,7 @@ GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-C
 - Data Abstraction
 - Encapsulation
 
-GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20%20OOPS%20Basic)
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20%20OOPS%20Basic)
 
 
 ---
@@ -219,12 +219,33 @@ GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Co
 - Inheritance
 - Polymorphism.
 
-GitHub Repository: [Source Code](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic)
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic)
 
 
 ---
 
 
+## **DAY 13 (25 January 2024):** 
+### Goal: Python Modules
+- Build In Modules
+- User Defined Modules 
+
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Python%20Modules)
+
+
+---
+
+
+
+
+## **DAY 13 (25 January 2024):** 
+### Goal: Numpy Basics
+- Diving into basics of Numpy
+
+GitHub Repository: [Source Code] ([https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Python%20Modules](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20Numpy%20Basics)
+
+
+---
 ## **DAY 7 :** 
 ### Goal: Advanced Python Concepts 
 - Higher Order Functions
