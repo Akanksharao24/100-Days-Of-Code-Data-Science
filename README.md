@@ -238,11 +238,36 @@ GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-C
 
 
 
-## **DAY 13 (25 January 2024):** 
+## **DAY 14 (26 January 2024):** 
 ### Goal: Numpy Basics
 - Diving into basics of Numpy
 
 GitHub Repository: [Source Code] ([https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Python%20Modules](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20Numpy%20Basics)
+
+
+---
+
+
+## **DAY 15 (27 January 2024):** 
+### Goal: Numpy Random
+- Simple Random Data Generation
+- Permutations
+- Distributions
+- Random Generator
+- Seed Control
+- Random Sampling
+
+GitHub Repository: [Source Code] [([https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20%20OOPS%20Basic](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Python%20Modules](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20Numpy%20Basics)](https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20Numpy%20Random)
+
+
+---
+
+
+## **DAY 16 (28 January 2024):** 
+### Goal: Pandas Random
+- Diving into basics of pandas
+
+GitHub Repository: [Source Code] (https://github.com/Akanksharao24/100-Days-Of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Basics)
 
 
 ---
